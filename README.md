@@ -113,7 +113,7 @@ microshell/
 
 ---
 
-Made with ❤️ by [Samir — @yourGitHubUsername](https://github.com/Samir-Ouaammou)
+Made with ❤️ by [Samir — @Samir-Ouaammou](https://github.com/Samir-Ouaammou)
 Project part of [ALX SE Program](https://www.alxafrica.com/)
 
 ---
